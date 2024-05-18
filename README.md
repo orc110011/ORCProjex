@@ -1,18 +1,18 @@
 # ORCProjex
 <h1>Hi, I'm Ossie <br/><a href="https://github.com/orc110011">Cybersecurity Practitioner</a>
+💻 Networking & Cybersecurity Projects:</h2>
 
-<h2>👨‍💻 Networking & Cybersecurity Projects:</h2>
-
-- <b>Active Directory Account Creation Practice </b>
+-<b>Active DIRECTORY CREATION PRACTICE </b>
 -(https://github.com/orc110011/ActiveDirectoryLabwithPowershell)
 
-- <b>DNS Projects </b>
+-<b>DNS DIG </b>
 -(https://github.com/orc110011/DNSProjects)
 
-- <b>NMAP-PortScanning </b>
+-<b>NMAP-PortScanning  </b>
 -(https://github.com/orc110011/NMAPportScanning)
 
--<b>DNSPORTRANDOMIZATION <b>
+-<b>DNSPORTRANDOMIZATION </b>
+-(https://github.com/orc110011/DNSPORTRANDOMIZATIONwithWIRESHARK)
 
   
   
