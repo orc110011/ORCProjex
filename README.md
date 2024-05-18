@@ -12,5 +12,7 @@
 - <b>NMAP-PortScanning </b>
 -(https://github.com/orc110011/NMAPportScanning)
 
+-<b>DNSPORTRANDOMIZATION <b>
+
   
   
