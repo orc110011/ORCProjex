@@ -8,9 +8,6 @@
 -<b>DNS DIG </b>
 -(https://github.com/orc110011/DNSProjects)
 
--<b>NMAP-PortScanning  </b>
--(https://github.com/orc110011/NMAPportScanning)
-
 -<b>DNSPORTRANDOMIZATION </b>
 -(https://github.com/orc110011/DNSPORTRANDOMIZATIONwithWIRESHARK)
 
